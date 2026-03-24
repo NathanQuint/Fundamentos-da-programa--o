@@ -13,8 +13,14 @@
 4. / (divisão)
 5. ** (potencia)
 
+## Operadores Lógicos
+1. and -> e -> Se duas condições forem verdadeiras, o resultado é verdadeiro.
+2. or -> ou -> Se, pelo menos, uma condição for verdadeira, o resulta é verdadeiro.
+3. not -> negação -> Ele altera o valor booleano da condição.
+
 ## Métodos em Python
 1. print() -> exibe informações no terminal
+2. input() -> capturar uma informação no terminal.
 
 ## Format em Python 
 `` if (se)`` -> Verifica se uma condição é true (verdadeira). Se for, ele exucuta o código.
