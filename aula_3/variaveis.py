@@ -1,6 +1,6 @@
 # Variaveis e Tipos de Dados
-# Em Python, você não precisa declarar o tipo de uma variavel antes de usá-la. O tipo é inferido automaticamente pelo interpretador.
-# EM Python, a variavel é declarada no padrão snake_case
+# Em Python, você não precisa declarar o tipo de uma variável antes de usá-la. O tipo é inferido automaticamente pelo interpretador.
+# EM Python, a variável é declarada no padrão snake_case
 # 1. string ->
 # 2. number - int (numero inteiro) ->
 # 3. number - float (numero decimal) ->
